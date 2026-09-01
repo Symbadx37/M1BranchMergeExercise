@@ -21,7 +21,8 @@ Students will practice working with:
 
 ## Contributors
 
-<!-- Developer B: Add the contributor names here. -->
+- Cristian Manzo
+- Symbadx37
 
 ## Exercise Goal
 
